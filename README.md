@@ -30,7 +30,7 @@ The dashboard is interactive and suitable for financial reporting, monthly produ
 
 [![Watch the video](https://img.youtube.com/vi/W6s9wpLblE4/0.jpg)](https://youtu.be/W6s9wpLblE4)
 
-> Walkthrough video of the dashboard explaining structure, logic, and features.
+> Walkthrough video of the dashboard.
 
 ---
 
