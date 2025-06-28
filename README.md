@@ -11,7 +11,7 @@ The dashboard is interactive and suitable for financial reporting, monthly produ
 > This dashboard uses **Power Pivot and Data Model features**, which require:
 > - Microsoft Excel **2013 or later**
 > -  **Desktop Excel app**
-
+>
 >  **Not supported** in Excel Online, mobile apps, or versions older than Excel 2013.
 
 ---
