@@ -6,7 +6,7 @@ The dashboard is interactive and suitable for financial reporting, monthly produ
 
 ---
 
-## ⚠ Compatibility Note
+##  Compatibility Note
 
 > This dashboard uses **Power Pivot and Data Model features**, which require:
 > - Microsoft Excel **2013 or later**
