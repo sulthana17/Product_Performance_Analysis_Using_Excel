@@ -38,7 +38,7 @@ The dashboard is interactive and suitable for financial reporting, monthly produ
 
 | Raw Sales Data | Pivot Table | Final Dashboard |
 |----------------|-------------|-----------------|
-| ![Raw Data](Raw_data.jpg.png) | ![Pivot](Pivot Table.jpg.png) | ![Dashboard](Dashboard.jpg.png) |
+| ![Raw Data](Raw_data.jpg.png) | ![Pivot](Pivot_Table.jpg.png) | ![Dashboard](Dashboard.jpg.png) |
 
 ---
 
