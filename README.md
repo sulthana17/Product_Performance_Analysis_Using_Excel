@@ -63,6 +63,16 @@ The dashboard is **interactive** and suitable for **financial reporting, monthly
 
 ---
 
+## Business Insights & Advantages
+
+- **Quick Decision-Making:** Managers can identify high-performing or low-performing products instantly.  
+- **Trend Analysis:** Visualizes month-over-month revenue and profit trends to guide inventory and sales strategy.  
+- **Profitability Insights:** Highlights products with high cost but low revenue for optimization.  
+- **Stakeholder Reporting:** Provides ready-to-use visuals for presentations and board meetings.  
+- **Operational Efficiency:** Reduces manual reporting and consolidates multiple KPIs into one interactive dashboard.  
+
+---
+
 ## Skills Demonstrated
 
 - Financial data analysis and reporting  
@@ -79,10 +89,3 @@ Aspiring Business Intelligence & Analytics Professional
 Skills: Excel, SQL, Power BI, SAP Cloud ERP  
 
 LinkedIn: [https://www.linkedin.com/in/rasviyasulthana](https://www.linkedin.com/in/rasviyasulthana)
-
----
-
-## Contact
-
-Want to collaborate or have questions?  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/rasviyasulthana)
